@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master change1
+=======
+i will do a change in manus working directory.
+>>>>>>> d8fc72f843a36ca51f73c20b61f34fa1e998bed5
